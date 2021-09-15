@@ -1,6 +1,6 @@
 function main(numOne, numTwo) {
     //Only change code below this line
-    var sum;
+    var difference;
     var numOne;
     var numTwo;
     //Only change code above this line
